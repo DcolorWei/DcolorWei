@@ -1,1 +1,6 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://metrics.lecoq.io/DcolorWei?template=classic&config.timezone=Asia%2FShanghai"> 
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DcolorWei" /> </div>
+</div>
