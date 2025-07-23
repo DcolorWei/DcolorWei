@@ -1,3 +1,3 @@
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DcolorWei" /> </div>
+<div>
+    <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DcolorWei" />
 </div>
